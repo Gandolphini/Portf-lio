@@ -13,9 +13,6 @@ Portfólio a fim de novas oportunidades.
 
 
 
-############################################
-############################################
-
 
 
 ## Funcionalidade Mobile 
