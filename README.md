@@ -19,7 +19,8 @@ https://github.com/Gandolphini/Portfolio/assets/103223523/5130981f-02d2-48d7-8a5
 
 
 ## Funcionalidade Mobile 
-https://github.com/Gandolphini/Portfolio/assets/103223523/5c046a00-5ce5-44a7-aa40-88776e399780
+
+![mobile](https://github.com/Gandolphini/Portfolio/assets/103223523/8180a0cf-f300-4635-8055-f54ae6ff0474)
 
 
 
