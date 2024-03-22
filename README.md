@@ -10,6 +10,7 @@ Portfólio a fim de novas oportunidades.
 
 
 ## Funcionalidade Desktop
+![desktop (1)](https://github.com/Gandolphini/Portfolio/assets/103223523/4ae6b763-32ca-4124-8fb3-106a6b8942c5)
 
 
 
