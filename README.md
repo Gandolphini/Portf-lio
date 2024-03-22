@@ -1,6 +1,6 @@
 # Portfólio
 Portfólio a fim de novas oportunidades.
-## Link para visualização do projeto: https://gandolphini.github.io/Portfolio/
+Link para visualização do projeto: https://gandolphini.github.io/Portfolio/
 ### Linguages utilizadas:
 
 - **HTML**
