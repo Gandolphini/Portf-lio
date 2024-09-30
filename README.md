@@ -5,6 +5,7 @@ Portfólio a fim de novas oportunidades.
 
 - **HTML**
 - **CSS**
+- **JS**
 - **BOOTSTRAP**
 
 
